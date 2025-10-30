@@ -1,1 +1,1 @@
-[]
+[{"name":"Local Machine","type":"Manual Run","url":"http://localhost:8080/","buildOrder":1,"buildName":"Local Test Execution","buildUrl":"http://localhost:8080/build/1","reportUrl":"http://localhost:8080/allure-report/1"}]

@@ -1,1 +1,1 @@
-[]
+[{"values":["STAGING"],"name":"Environment"},{"values":["https://securetest.sabpaisa.in/ClientTest/"],"name":"BaseURL"},{"values":["Chrome"],"name":"Browser"},{"values":["Bhargava"],"name":"Executor"}]
